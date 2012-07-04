@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E33D051415A442CD00C68BDB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E33D051315A442CD00C68BDB /* UIKit.framework */; };
+		E33D051615A442CD00C68BDB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E33D051515A442CD00C68BDB /* Foundation.framework */; };
+		E33D051815A442CD00C68BDB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E33D051715A442CD00C68BDB /* CoreGraphics.framework */; };
+		E33D051E15A442CD00C68BDB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E33D051C15A442CD00C68BDB /* InfoPlist.strings */; };
+		E33D052015A442CD00C68BDB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E33D051F15A442CD00C68BDB /* main.m */; };
+		E33D052415A442CE00C68BDB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E33D052315A442CE00C68BDB /* AppDelegate.m */; };
+		E33D052715A442CE00C68BDB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E33D052615A442CE00C68BDB /* ViewController.m */; };
+		E33D052A15A442CE00C68BDB /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = E33D052815A442CE00C68BDB /* ViewController_iPhone.xib */; };
+		E33D052D15A442CE00C68BDB /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = E33D052B15A442CE00C68BDB /* ViewController_iPad.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		E33D050F15A442CD00C68BDB /* LeerQR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeerQR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E33D051315A442CD00C68BDB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		E33D051515A442CD00C68BDB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E33D051715A442CD00C68BDB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		E33D051B15A442CD00C68BDB /* LeerQR-Info.plist */ = {isa = PBXFileReference; path = "LeerQR-Info.plist"; sourceTree = "<group>"; };
+		E33D051D15A442CD00C68BDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E33D051F15A442CD00C68BDB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E33D052115A442CD00C68BDB /* LeerQR-Prefix.pch */ = {isa = PBXFileReference; path = "LeerQR-Prefix.pch"; sourceTree = "<group>"; };
+		E33D052215A442CE00C68BDB /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		E33D052315A442CE00C68BDB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E33D052515A442CE00C68BDB /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		E33D052615A442CE00C68BDB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E33D052915A442CE00C68BDB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
+		E33D052C15A442CE00C68BDB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E33D050C15A442CD00C68BDB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E33D051415A442CD00C68BDB /* UIKit.framework in Frameworks */,
+				E33D051615A442CD00C68BDB /* Foundation.framework in Frameworks */,
+				E33D051815A442CD00C68BDB /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E33D050415A442CD00C68BDB = {
+			isa = PBXGroup;
+			children = (
+				E33D051915A442CD00C68BDB /* LeerQR */,
+				E33D051215A442CD00C68BDB /* Frameworks */,
+				E33D051015A442CD00C68BDB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E33D051015A442CD00C68BDB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E33D050F15A442CD00C68BDB /* LeerQR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E33D051215A442CD00C68BDB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E33D051315A442CD00C68BDB /* UIKit.framework */,
+				E33D051515A442CD00C68BDB /* Foundation.framework */,
+				E33D051715A442CD00C68BDB /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E33D051915A442CD00C68BDB /* LeerQR */ = {
+			isa = PBXGroup;
+			children = (
+				E33D052215A442CE00C68BDB /* AppDelegate.h */,
+				E33D052315A442CE00C68BDB /* AppDelegate.m */,
+				E33D052515A442CE00C68BDB /* ViewController.h */,
+				E33D052615A442CE00C68BDB /* ViewController.m */,
+				E33D052815A442CE00C68BDB /* ViewController_iPhone.xib */,
+				E33D052B15A442CE00C68BDB /* ViewController_iPad.xib */,
+				E33D051A15A442CD00C68BDB /* Supporting Files */,
+			);
+			path = LeerQR;
+			sourceTree = "<group>";
+		};
+		E33D051A15A442CD00C68BDB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E33D051B15A442CD00C68BDB /* LeerQR-Info.plist */,
+				E33D051C15A442CD00C68BDB /* InfoPlist.strings */,
+				E33D051F15A442CD00C68BDB /* main.m */,
+				E33D052115A442CD00C68BDB /* LeerQR-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E33D050E15A442CD00C68BDB /* LeerQR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E33D053015A442CE00C68BDB /* Build configuration list for PBXNativeTarget "LeerQR" */;
+			buildPhases = (
+				E33D050B15A442CD00C68BDB /* Sources */,
+				E33D050C15A442CD00C68BDB /* Frameworks */,
+				E33D050D15A442CD00C68BDB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LeerQR;
+			productName = LeerQR;
+			productReference = E33D050F15A442CD00C68BDB /* LeerQR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E33D050615A442CD00C68BDB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = UPV;
+			};
+			buildConfigurationList = E33D050915A442CD00C68BDB /* Build configuration list for PBXProject "LeerQR" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E33D050415A442CD00C68BDB;
+			productRefGroup = E33D051015A442CD00C68BDB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E33D050E15A442CD00C68BDB /* LeerQR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E33D050D15A442CD00C68BDB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E33D051E15A442CD00C68BDB /* InfoPlist.strings in Resources */,
+				E33D052A15A442CE00C68BDB /* ViewController_iPhone.xib in Resources */,
+				E33D052D15A442CE00C68BDB /* ViewController_iPad.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E33D050B15A442CD00C68BDB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E33D052015A442CD00C68BDB /* main.m in Sources */,
+				E33D052415A442CE00C68BDB /* AppDelegate.m in Sources */,
+				E33D052715A442CE00C68BDB /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		E33D051C15A442CD00C68BDB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E33D051D15A442CD00C68BDB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		E33D052815A442CE00C68BDB /* ViewController_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E33D052915A442CE00C68BDB /* en */,
+			);
+			name = ViewController_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		E33D052B15A442CE00C68BDB /* ViewController_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E33D052C15A442CE00C68BDB /* en */,
+			);
+			name = ViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E33D052E15A442CE00C68BDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E33D052F15A442CE00C68BDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E33D053115A442CE00C68BDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LeerQR/LeerQR-Prefix.pch";
+				INFOPLIST_FILE = "LeerQR/LeerQR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E33D053215A442CE00C68BDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LeerQR/LeerQR-Prefix.pch";
+				INFOPLIST_FILE = "LeerQR/LeerQR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E33D050915A442CD00C68BDB /* Build configuration list for PBXProject "LeerQR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E33D052E15A442CE00C68BDB /* Debug */,
+				E33D052F15A442CE00C68BDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E33D053015A442CE00C68BDB /* Build configuration list for PBXNativeTarget "LeerQR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E33D053115A442CE00C68BDB /* Debug */,
+				E33D053215A442CE00C68BDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E33D050615A442CD00C68BDB /* Project object */;
+}
