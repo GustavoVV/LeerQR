@@ -1,0 +1,290 @@
+TLeerQR
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/Info.plist LeerQR/LeerQR-Info.plist
+cProcessPCH /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.pth LeerQR/LeerQR-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004FE1E6D40000000000182900
+t1340204756
+s1583360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FE1E6D60000000000244490
+t1340204758
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004FE1E6DA0000000000069670
+t1340204762
+s431728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004FE1E6DB000000000001EAD0
+t1340204763
+s125648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FE1E6DC0000000000353830
+t1340204764
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004FE1E6E300000000001AB190
+t1340204771
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FE1E6E60000000000905E40
+t1340204774
+s9461312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/usr/lib/libiconv.dylib
+c000000004FE1E70C00000000000FCF50
+t1340204812
+s1036112
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/InternetViewController.o
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/LeerQR.LinkFileList
+c000000004FF4245A000000000000026B
+t1341400154
+s619
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.pth
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app.dSYM
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/Info.plist
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/InternetViewController.nib
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/LeerQR
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/PkgInfo
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/en.lproj/ViewController_iPad.nib
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/en.lproj/ViewController_iPhone.nib
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/zbar-back.png
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/zbar-help.html
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/zbar-helpicons.png
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/zbar-samples.png
+t2
+s0
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/AppDelegate.m
+c000000004FF40B4E0000000000000A2E
+t1341393742
+s2606
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/InternetViewController.m
+c000000004FF40FFF0000000000000452
+t1341394943
+s1106
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/InternetViewController.xib
+c000000004FF41012000000000000208E
+t1341394962
+s8334
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/LeerQR-Prefix.pch
+c000000004FF40B4D000000000000013B
+t1341393741
+s315
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/ViewController.m
+c000000004FF412A300000000000006D5
+t1341395619
+s1749
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/en.lproj/InfoPlist.strings
+c000000004FF40B4D000000000000002D
+t1341393741
+s45
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/en.lproj/ViewController_iPad.xib
+c000000004FF411A8000000000000209B
+t1341395368
+s8347
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/en.lproj/ViewController_iPhone.xib
+c000000004FF411A60000000000002090
+t1341395366
+s8336
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/main.m
+c000000004FF40B4D0000000000000154
+t1341393741
+s340
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/ZBarSDK/Resources/zbar-back.png
+c000000004E40215F000000000000013F
+t1312825695
+s319
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/ZBarSDK/Resources/zbar-help.html
+c000000004E40215F0000000000000D37
+t1312825695
+s3383
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/ZBarSDK/Resources/zbar-helpicons.png
+c000000004E40215F00000000000047AE
+t1312825695
+s18350
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/ZBarSDK/Resources/zbar-samples.png
+c000000004E40215F000000000000049D
+t1312825695
+s1181
+
+N/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/ZBarSDK/libzbar.a
+c000000004E40215F00000000002E5F0C
+t1312825695
+s3038988
+
+NLeerQR/LeerQR-Info.plist
+c000000004FF40B4D00000000000005AF
+t1341393741
+s1455
+
+CBuild AST from /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/AppDelegate.m
+r0
+
+CBuild AST from /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/InternetViewController.m
+r0
+
+CBuild AST from /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/ViewController.m
+r0
+
+CBuild AST from /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb30b8ada5ba4b541^7fbdb6da5ba4b541^---0#1#0#--18"Check dependencies36"12427418-F19C-47EA-BF9E-7676F6B8288E-
+
+CCompileC Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/AppDelegate.o /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/InternetViewController.o /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/InternetViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/ViewController.o /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/Objects-normal/i386/main.o /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/InternetViewController.xib
+r0
+
+CCompileXIB /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/en.lproj/ViewController_iPad.xib
+r0
+
+CCompileXIB /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/en.lproj/ViewController_iPhone.xib
+r0
+
+CCopyStringsFile /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/en.lproj/InfoPlist.strings LeerQR/en.lproj/InfoPlist.strings
+r0
+
+CCpResource ZBarSDK/Resources/zbar-back.png Build/Products/Release-iphonesimulator/LeerQR.app/zbar-back.png
+r0
+
+CCpResource ZBarSDK/Resources/zbar-help.html Build/Products/Release-iphonesimulator/LeerQR.app/zbar-help.html
+r0
+
+CCpResource ZBarSDK/Resources/zbar-helpicons.png Build/Products/Release-iphonesimulator/LeerQR.app/zbar-helpicons.png
+r0
+
+CCpResource ZBarSDK/Resources/zbar-samples.png Build/Products/Release-iphonesimulator/LeerQR.app/zbar-samples.png
+r0
+
+CGenerateDSYMFile /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app.dSYM /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/LeerQR
+r0
+
+CLd /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/LeerQR normal i386
+r0
+
+CProcessInfoPlistFile /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/Info.plist LeerQR/LeerQR-Info.plist
+s363092954.738325
+e363092954.788425
+r1
+xProcessInfoPlistFile
+x/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/Info.plist
+xLeerQR/LeerQR-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process LeerQR/LeerQR-Info.plistb1c0c7da5ba4b541^bfd6c9da5ba4b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/LeerQR-Info.plist0000000000000000^706"ProcessInfoPlistFile Build/Products/Release-iphonesimulator/LeerQR.app/Info.plist LeerQR/LeerQR-Info.plist    cd /Users/albertogomezdelpino/Desktop/Iphone/LeerQR    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LeerQR/LeerQR-Info.plist -genpkginfo /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app/Info.plist36"3F24ECE4-A097-4ABB-AADA-3FB4DCCA8F13-
+
+CProcessPCH /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.pth LeerQR/LeerQR-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s363092954.796488
+e363092965.540040
+r1
+xProcessPCH
+x/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.pth
+xLeerQR/LeerQR-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile LeerQR/LeerQR-Prefix.pch3d0dccda5ba4b541^ee3f8ae55ba4b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/LeerQR-Prefix.pch0000000000000000^3402"ProcessPCH Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.pth LeerQR/LeerQR-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/albertogomezdelpino/Desktop/Iphone/LeerQR    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/LeerQR-generated-files.hmap -I/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/LeerQR-own-target-headers.hmap -I/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/LeerQR-all-target-headers.hmap -iquote /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/LeerQR-project-headers.hmap -I/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/include -I/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/DerivedSources/i386 -I/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/LeerQR.build/Release-iphonesimulator/LeerQR.build/DerivedSources -F/Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.dia -c /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/LeerQR/LeerQR-Prefix.pch -o /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.pth -MMD -MT dependencies -MF /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Intermediates/PrecompiledHeaders/LeerQR-Prefix-gesjliiuzimqocejzpivjitcmfhh/LeerQR-Prefix.pch.d36"6DB6BA6B-38B4-4B0A-859B-0835F9CC640F-
+
+CProcessPCH /Users/albertogomezdelpino/Library/Developer/Xcode/DerivedData/LeerQR-fkqbvekkoyckmcdmgcusbdhjqrnx/Index/PrecompiledHeaders/LeerQR-Prefix-camcstfyufpakjbbzzhhxrjverzt_ast/LeerQR-Prefix.pch.pth LeerQR/LeerQR-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/albertogomezdelpino/Desktop/Iphone/LeerQR/Build/Products/Release-iphonesimulator/LeerQR.app
+r0
+

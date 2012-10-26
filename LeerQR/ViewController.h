@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ZBarSDK.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <ZBarReaderDelegate>
+
+-(IBAction)lector:(id)sender;
+
+- (void) imagePickerController: (UIImagePickerController*) reader didFinishPickingMediaWithInfo: (NSDictionary*) info;
+
 
 @end
